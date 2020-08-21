@@ -1,0 +1,17 @@
+.result {
+  min-width: 320px;
+  padding: 20px 40px;
+  border-radius: 20px;
+}
+
+.result__value {
+  padding-top:  10px;
+  padding-bottom:  30px;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.result__value span {
+  padding-left: 10px;
+  font-size: 40px;
+}

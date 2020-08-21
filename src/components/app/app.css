@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 200vh;
+  padding: 50px;
+}
+
+.wrapper {
+  display: flex;
+}
+
